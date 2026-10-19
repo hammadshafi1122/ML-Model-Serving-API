@@ -1,0 +1,23 @@
+Training ran successfully in the file-generation environment.
+{
+  "artifact": "artifacts/iris_model.joblib",
+  "evaluation_report": "artifacts/evaluation.json",
+  "accuracy": 0.9,
+  "confusion_matrix": [
+    [
+      10,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      1
+    ],
+    [
+      0,
+      2,
+      8
+    ]
+  ]
+}
